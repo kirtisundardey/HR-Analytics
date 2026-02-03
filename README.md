@@ -1,7 +1,7 @@
 # HR Analytics: Employee Lifecycle Insights Dashboard  
 ### 📊 Workforce Insights through Data-Driven HR Analytics  
-**By Kirti Sundar Dey**
-📊 *Internship Project at Rubixe – AI Solutions Company*
+**By Kirti Sundar Dey**  
+📊 *Internship Project at Rubixe – AI Solutions Company*  
 
 ---
 
